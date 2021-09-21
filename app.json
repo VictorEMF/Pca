@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "pca",
+    "slug": "pca",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "pca"
+}
