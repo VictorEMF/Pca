@@ -26,7 +26,7 @@ export default function Alimentos( navigation ) {
           }
         </ScrollView>
         <View style={{flexDirection:'row', position:'absolute', bottom:0, alignSelf:'center' }}>
-          <Text style={{color: 'white'}}>◉</Text>
+          <Text  style={styles.pagingText}>◉</Text>
         </View>
       </View>
     </SafeAreaView>
@@ -40,5 +40,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  
   
 })
