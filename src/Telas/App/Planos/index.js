@@ -5,7 +5,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import Inicio from '../../TL_exercios/TLI_inicial';
 import Aerobico from '../../TL_exercios/TLI_aerobico';
 import Funcional from '../../TL_exercios/TLI_funcional';
-import Alimentos from '../../TL_aliementos';
+import Alimentos from '../../TL_alimentos';
 const Stack = createStackNavigator();
 
 export default function Planos( navigation ) {
